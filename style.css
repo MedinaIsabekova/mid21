@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://cutewallpaper.org/21/pink-laptop-backgrounds/Donn-Wallpaper-Cute-Aesthetic-Drawing-Best-Educational-.jpg");
+}
+b{
+  text-align: center;
+  font-size: 25px;
+}
+.spinner-border{
+  color: palevioletred;
+  margin-bottom: 2%;
+  margin-top: 4%;
+}
+p{
+  color: dimgray;
+  font-size: 12px;
+  border: 1px solid darkslategrey;
+  margin: 10px;
+}
